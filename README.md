@@ -16,7 +16,7 @@ Viewers take part with the actions TikTok already gives them: **comments**, **gi
 | --- | --- |
 | **Join a team** | Puts the viewer on the country they type: a lane number or the country's name. Any comment that names one does it by default |
 | **Trot** | A little extra pace for one second. 20 likes by default |
-| **Gallop** | A faster second and a half, one hoofbeat per send. A Rose by default, and any gift without a trigger of its own, longer for bigger gifts |
+| **Gallop** | A faster second and a half, one hoofbeat per send. A Rose by default |
 | **Sprint** | Three seconds at speed, throwing up clods of the track. A Finger Heart or a follow by default |
 | **Pegasus** | The horse flies on wings for five seconds at double pace, with a rainbow behind it. A Hand Heart by default |
 | **Thunder Charge** | Lightning strikes the horse and it charges for five seconds, the fastest run in the game. A Money Gun by default |
@@ -45,7 +45,7 @@ Nations Derby turns your TikTok Live into a horse race between countries. Up to 
 
 ### One country, every gift
 
-Joining is a comment: the lane number, the country's name in any of thirteen languages, its code or its flag emoji. After that a viewer's gifts and likes all go to their country, so you set up five gift triggers whatever the number of countries. Out of the box 20 likes give a trot, a Rose a gallop, a Finger Heart or a follow a sprint, a Hand Heart sends the horse flying on Pegasus wings and a Money Gun brings a Thunder Charge, a bolt of lightning and the fastest run in the game. Any other gift gives a gallop, longer for bigger gifts. A viewer who sends a gift before picking a country joins the one in last place.
+Joining is a comment: the lane number, the country's name in any of thirteen languages, its code or its flag emoji. After that a viewer's gifts and likes all go to their country, so you set up five gift triggers whatever the number of countries. Out of the box 20 likes give a trot, a Rose a gallop, a Finger Heart or a follow a sprint, a Hand Heart sends the horse flying on Pegasus wings and a Money Gun brings a Thunder Charge, a bolt of lightning and the fastest run in the game. Any other gift plays the boost for its price, so the same coins buy the same distance. A viewer who sends a gift before picking a country joins the one in last place.
 
 ### Nobody gets slowed down
 
@@ -72,7 +72,7 @@ Pick 2 to 10 countries in any order. For a room where everyone is from one count
 - **Map** - Derby Day, Desert Dunes, Beach Sprint or Night Stadium, or a new map every race (the default)
 - **Race length** - Short, medium or long: about 1, 2 or 3 minutes without boosts. Boosts make a race with gifts end sooner
 - **Catch-up** - Off, gentle (the default) or strong: how much longer the boosts of a horse behind the leader run
-- **Camera cuts to big boosts** - A Pegasus or a Thunder Charge cuts the camera to that horse for about 3 seconds
+- **Camera shows big boosts** - The camera flies to a Pegasus or a Thunder Charge and holds on the whole effect for about 6 seconds
 - **Colors** - The accent, highlight and panel colors of everything on screen
 
 ## Languages
@@ -91,7 +91,7 @@ They comment the lane number or the country's name, in any of the thirteen langu
 <details>
 <summary><strong>What do gifts do?</strong></summary>
 
-Out of the box 20 likes give a trot, a Rose a gallop, a Finger Heart a sprint, a Hand Heart Pegasus wings and a Money Gun a Thunder Charge. A follow gives a sprint, and any other gift gives a gallop that lasts longer for bigger gifts. Every action can be rebound to any gift, or to comments, likes and follows.
+Out of the box 20 likes give a trot, a Rose a gallop, a Finger Heart a sprint, a Hand Heart Pegasus wings and a Money Gun a Thunder Charge. A follow gives a sprint, and any other gift plays the boost for its price. Every action can be rebound to any gift, or to comments, likes and follows.
 
 </details>
 
