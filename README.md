@@ -53,7 +53,7 @@ Every boost helps only the sender's own horse, so a country can only win by out-
 
 ### A broadcast camera
 
-The camera films the race like a broadcast: the field side-on from the infield, the whole field from behind every so often, and the horse of the latest boost while its boost runs. A Pegasus or a Thunder Charge cuts to its horse up close. A strip across the top shows every horse's place on the track, the standings show each country's viewers and this stream's wins, and a card with the sender's photo appears for each gift.
+The camera films the race like a broadcast: the field side-on from the infield, and the whole field from behind every so often. A Pegasus or a Thunder Charge gets the camera: it flies to that horse and holds on the whole effect. A strip across the top shows every horse's place on the track, the standings show each country's viewers and this stream's wins, and a card with the sender's photo appears for each gift.
 
 ### Countries, colors or your own teams
 
